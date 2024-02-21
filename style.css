@@ -1,0 +1,8 @@
+#table tr td{
+    padding-left: 60px;
+}
+
+.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
